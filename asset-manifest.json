@@ -1,14 +1,14 @@
 {
-  "main.css": "/yashishdua.github.io/static/css/main.38a8b60b.chunk.css",
-  "main.js": "/yashishdua.github.io/static/js/main.b95a3c49.chunk.js",
-  "main.js.map": "/yashishdua.github.io/static/js/main.b95a3c49.chunk.js.map",
-  "static/js/1.cf44e5e9.chunk.js": "/yashishdua.github.io/static/js/1.cf44e5e9.chunk.js",
-  "static/js/1.cf44e5e9.chunk.js.map": "/yashishdua.github.io/static/js/1.cf44e5e9.chunk.js.map",
-  "runtime~main.js": "/yashishdua.github.io/static/js/runtime~main.fe5d76cb.js",
-  "runtime~main.js.map": "/yashishdua.github.io/static/js/runtime~main.fe5d76cb.js.map",
-  "static/media/Yashish.jpg": "/yashishdua.github.io/static/media/Yashish.d901b838.jpg",
-  "static/css/main.38a8b60b.chunk.css.map": "/yashishdua.github.io/static/css/main.38a8b60b.chunk.css.map",
-  "index.html": "/yashishdua.github.io/index.html",
-  "precache-manifest.7a0002eb2a79c608f5f943724a31afd3.js": "/yashishdua.github.io/precache-manifest.7a0002eb2a79c608f5f943724a31afd3.js",
-  "service-worker.js": "/yashishdua.github.io/service-worker.js"
+  "main.css": "/static/css/main.38a8b60b.chunk.css",
+  "main.js": "/static/js/main.b95a3c49.chunk.js",
+  "main.js.map": "/static/js/main.b95a3c49.chunk.js.map",
+  "static/js/1.27d470f8.chunk.js": "/static/js/1.27d470f8.chunk.js",
+  "static/js/1.27d470f8.chunk.js.map": "/static/js/1.27d470f8.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/Yashish.jpg": "/static/media/Yashish.d901b838.jpg",
+  "static/css/main.38a8b60b.chunk.css.map": "/static/css/main.38a8b60b.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.d488f173e11ff8edf50042272e3c5b9d.js": "/precache-manifest.d488f173e11ff8edf50042272e3c5b9d.js",
+  "service-worker.js": "/service-worker.js"
 }
